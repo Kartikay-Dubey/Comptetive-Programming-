@@ -1,5 +1,5 @@
 x=int(input("Enter your Age: "))
 if x >= 18:
-    print("You are eligible to Vote!")
+    print("Bade Ho Gaye ho Vote Do Jakar!")
 else:
-    print("You are not eligible for Vote!")
+    print("Abhi Chote Ho Vote Nahi De Sakte!")
