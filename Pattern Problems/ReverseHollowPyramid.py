@@ -1,4 +1,4 @@
-N=int(input("Enter the number of rows:"))
+N=int(input("Enter rows:"))
 for i in range(N, 0, -1):
     for j in range(N-i+1):
         print("*", end="")
@@ -7,3 +7,4 @@ for i in range(N, 0, -1):
     for j in range(N-i+1):
         print("*", end="")
     print()
+

@@ -1,5 +1,5 @@
-N = int(input("Enter the number of rows: "))
-M = int(input("Enter the number of columns: "))
+N = int(input("Enter rows: "))
+M = int(input("columns: "))
 for i in range(0,N):
     for j in range(0,M):
         print("*",end=" ")

@@ -1,4 +1,4 @@
-N=int(input("Enter a number to find its factors: "))
+N=int(input("Enter a number:"))
 count = 1
 while count<=N:
     if (N%count==0):

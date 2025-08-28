@@ -3,6 +3,6 @@ b=int(input("Enter the 2nd Angle:"))
 c=int(input("ENter the 3rd Angle:"))
 
 if a+b+c == 180:
-    print("Hn Ye Triangle Valid Hai!")
+    print("Yes, Valid Triangle")
 else:
-    print("Nahi Ye Triangle Valid Nahi Hai!")
+    print("Not a Valid Triangle")
