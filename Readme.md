@@ -1,4 +1,4 @@
-#<center> 🏆 Competitive Programming  
+<h1><center> 🏆 Competitive Programming  </center>  </h1>  
 
 <p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Welcome+to+My+CP+Repository;Patterns+Loops+If-Else+Problems;Keep+Coding+Keep+Growing!+🔥" alt="Typing Animation" />  
@@ -12,4 +12,4 @@
 ---
 
 ⚡ *“Code. Compile. Conquer.”*  
-</center>
+
