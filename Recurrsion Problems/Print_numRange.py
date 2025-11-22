@@ -6,4 +6,4 @@ def print_1_to_n(n):
 
 n=int(input().strip())
 print_1_to_n(n)
-print()   # newline
+print()
